@@ -3,6 +3,8 @@
 Using extreme value theory, I show that women are not intellectually inferior to men at chess,
 despite what appears to be lopsided ratios at the top level.
 
+Please look at [fide-based-chess-analysis.ipynb](https://github.com/viamiraia/participation-gaps/blob/main/fide-based-chess-analysis.ipynb).
+
 If you use or incorporate ideas from this software/study, please cite it as below.
 
 ```
