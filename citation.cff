@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or incorporate ideas from this software/study, please cite it as below."
+authors:
+- family-names: "Chiou"
+  given-names: "Miraia"
+  orcid: "https://orcid.org/0009-0005-2187-7471"
+title: "Participation Rates Explain Top-Level Group Disparities: Why Women Are Not Worse Than Men at Chess"
+version: 0.0.4
+date-released: 2023-12-18
+url: "https://github.com/viamiraia/participation-gaps"
