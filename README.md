@@ -42,6 +42,8 @@ is innate vs due to initial participation rates.
 ![FIDE Rated Player Graph and Predictions](assets/rated-players.png)
 ![Grandmaster Graph and Predictions](assets/grandmasters.png)
 ![Top 1000 Graph and Predictions](assets/top-1k.png)
+![Predicted # of Women](assets/predicted_w.png)
+![Predicted M:W Ratios](assets/predicted_m_w.png)
 
 ## TODO List
 
@@ -79,7 +81,7 @@ If you use or incorporate ideas from this software/study, please cite it as belo
     month = dec,
     title = {{Participation Rates Explain Top-Level Group Disparities: Why Women Are Not Worse Than Men at Chess}},
     url = {https://github.com/viamiraia/participation-gaps},
-    version = {0.0.4},
+    version = {0.0.6},
     year = {2023}
 }
 ```
