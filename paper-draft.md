@@ -39,9 +39,14 @@ are:
 1. Active chess players in the general population (approximately 15%)
 2. Percentage of female chess players participants (around 8.2% to 10.1%)
 3. Total sizes of subpopulations without prior knowledge about their gender ratios (e.g., 1725
-   Grandmasters).
-
+   GMs).
 
 ## Methods
+
+## Results
+
 ## Discussion
 
+## Conclusion
+
+## Acknowledgements

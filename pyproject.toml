@@ -1,0 +1,58 @@
+[project]
+name = 'cerebrum'
+requires-python = '>=3.10'
+dynamic = ['version']
+
+[tool.ruff]
+line-length = 96
+output-format = 'grouped'
+ignore-init-module-imports = true
+
+select = ['ALL']
+
+# F722 is incompatible with nptyping.
+# F722: Checks for forward annotations that include invalid syntax.
+# Ignore FIX002 (T002 before Ruff 0.0.272) to allow TODO comments
+# Ignore ANN101 and ANN102 since we use typing.Self in python 3.11
+# Rest are from https://docs.astral.sh/ruff/formatter/#conflicting-lint-rules
+ignore = [
+  'F722',
+  'FIX002',
+  'ANN101',
+  'ANN102',
+  'W191',
+  'E111',
+  'E114',
+  'E117',
+  'D206',
+  'D300',
+  'Q000',
+  'Q001',
+  'Q002',
+  'Q003',
+  'COM812',
+  'COM819',
+  'ISC001',
+  'ISC002',
+]
+
+src = ['src']
+
+  [tool.ruff.format]
+  quote-style = 'single'
+
+  [tool.ruff.isort]
+  combine-as-imports = true
+
+  [tool.ruff.pydocstyle]
+  convention = 'google'
+
+  [tool.ruff.flake8-quotes]
+  inline-quotes = 'single'
+  multiline-quotes = 'double' # for lmql
+  docstring-quotes = 'double' # for lmql
+
+[tool.pyright]
+strictListInference = true
+strictDictionaryInference = true
+strictSetInference = true
