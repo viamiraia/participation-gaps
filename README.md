@@ -37,9 +37,9 @@ is innate vs due to initial participation rates.
 
 ## Choice Figures
 
-![[assets/rated-players.png]]
-![[assets/grandmasters.png]]
-![[assets/top-1k.png]]
+![[https://github.com/viamiraia/participation-gaps/blob/main/assets/rated-players.png]]
+![[https://github.com/viamiraia/participation-gaps/blob/main/assets/grandmasters.png]]
+![[https://github.com/viamiraia/participation-gaps/blob/main/assets/top-1k.png]]
 
 ## TODO List
 
