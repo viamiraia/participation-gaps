@@ -1,5 +1,7 @@
 # Participation Rates Explain Top-Level Group Disparities: Why Women Are Not Worse Than Men at Chess
 
+DISCLAIMER: As of 2023-12-18, this research is extremely preliminary and has not been peer-reviewed.
+
 Using extreme value theory, I show that women are not intellectually inferior to men at chess,
 despite what appears to be lopsided ratios at the top level.
 
@@ -45,9 +47,10 @@ is innate vs due to initial participation rates.
 
 - [ ] ⏫ Acquire other ranked datasets and activities to test with ➕ 2023-12-18
 - [ ] ⏫ Double-check methods. ➕ 2023-12-18
+- [ ] ⏫ Graph relationship between top-n size and gender ratio ➕ 2023-12-18
 - [ ] 🔼 Cleanup Repository➕ 2023-12-18
-  - [ ] Create changelog
-  - [ ] Re-structure folders
+  - [ ] Create changelog➕ 2023-12-18
+  - [ ] Re-structure folders➕ 2023-12-18
 - [ ] 🔼Implement fast top-n samples for extreme distributions if possible, based on [the method for normal distributions](https://stats.stackexchange.com/questions/579800/fast-top-n-from-samples-of-many-different-normal-distributions)➕ 2023-12-18
 - [ ] 🔼 Perform best-distribution WAIC analysis. ➕ 2023-12-18
 - [ ] 🔼 Perform Bayesian analysis to acquire credible intervals. ➕ 2023-12-18
