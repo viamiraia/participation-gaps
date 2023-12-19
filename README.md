@@ -46,6 +46,7 @@ is innate vs due to initial participation rates.
 ## TODO List
 
 - [ ] ⏫ Acquire other ranked datasets and activities to test with ➕ 2023-12-18
+    - [ ] Labor participation and richest people ➕ 2023-12-18
 - [ ] ⏫ Double-check methods. ➕ 2023-12-18
 - [ ] ⏫ Graph relationship between top-n size and gender ratio ➕ 2023-12-18
 - [ ] 🔼 Cleanup Repository➕ 2023-12-18
@@ -53,8 +54,11 @@ is innate vs due to initial participation rates.
   - [ ] Re-structure folders➕ 2023-12-18
 - [ ] 🔼Implement fast top-n samples for extreme distributions if possible, based on [the method for normal distributions](https://stats.stackexchange.com/questions/579800/fast-top-n-from-samples-of-many-different-normal-distributions)➕ 2023-12-18
 - [ ] 🔼 Perform best-distribution WAIC analysis. ➕ 2023-12-18
-- [ ] 🔼 Perform Bayesian analysis to acquire credible intervals. ➕ 2023-12-18
+- [ ] 🔼 Perform Bayesian analysis to acquire credible intervals for estimates. ➕ 2023-12-18
 - [ ] Research existing papers➕ 2023-12-18
+- [ ] Examine time lag effects, e.g. participation rate changes, how long until top-level
+  changes? ➕ 2023-12-18
+
 
 ## License
 
